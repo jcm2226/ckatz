@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Corey Katz</title>
-    <link>http://ckatz.philosophicon.net/home/</link>
+    <link>http://jcm2226.github.io/ckatz/home/</link>
     <description>Recent content in Homes on Corey Katz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Corey Katz</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://ckatz.philosophicon.net/home/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://jcm2226.github.io/ckatz/home/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>about</title>
-      <link>http://ckatz.philosophicon.net/home/about/</link>
+      <link>http://jcm2226.github.io/ckatz/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://ckatz.philosophicon.net/home/about/</guid>
+      <guid>http://jcm2226.github.io/ckatz/home/about/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Hello and welcome to my site!&lt;/strong&gt; &lt;br&gt; &lt;br&gt;&lt;/h4&gt;&lt;/p&gt;
