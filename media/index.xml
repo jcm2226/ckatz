@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Media on Corey Katz</title>
+    <link>http://ckatz.philosophicon.net/media/</link>
+    <description>Recent content in Media on Corey Katz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Corey Katz</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://ckatz.philosophicon.net/media/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>&#39;Intergenerational Justice,&#39;&#39; Flourish radio show, CJSW, Calgary, AB, August 18, 2015</title>
+      <link>http://ckatz.philosophicon.net/media/flourish/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://ckatz.philosophicon.net/media/flourish/</guid>
+      <description>&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/219851481&amp;amp;color=ff5500&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&#39;Justice and Climate Change: New Challenges and New Theories,&#39; Ethics in Society, Stanford, CA, April 16, 2015</title>
+      <link>http://ckatz.philosophicon.net/media/stanford/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://ckatz.philosophicon.net/media/stanford/</guid>
+      <description>&lt;iframe width=&#34;440&#34; height=&#34;273&#34; src=&#34;https://www.youtube.com/embed/vVv6es0EiwI&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

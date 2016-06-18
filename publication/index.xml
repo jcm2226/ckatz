@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Corey Katz</title>
+    <link>http://ckatz.philosophicon.net/publication/</link>
+    <description>Recent content in Publications on Corey Katz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Corey Katz</copyright>
+    <lastBuildDate>Sat, 11 Jun 2016 18:49:48 -0500</lastBuildDate>
+    <atom:link href="http://ckatz.philosophicon.net/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://ckatz.philosophicon.net/publication/book_review1/</link>
+      <pubDate>Sat, 11 Jun 2016 18:49:48 -0500</pubDate>
+      
+      <guid>http://ckatz.philosophicon.net/publication/book_review1/</guid>
+      <description>&lt;p&gt;“Review of Elizabeth Cripps, Climate Change and the Moral Agent.” &lt;em&gt;Ethics, Policy &amp;amp; Environment&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
